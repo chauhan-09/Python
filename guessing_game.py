@@ -21,8 +21,6 @@ def guessing_game():
 
 guessing_game()
 print("Thank you! for Playing the game")
-  
-
 
 
 
