@@ -9,6 +9,13 @@ print(arr[-2])
 arr.append(5)
 print(arr)
 
+cnt , val = 0 , 1
+
+print()
+print(cnt)
+print(val)
+print()
+
 
 def findsum(nums):
     sum = 0
